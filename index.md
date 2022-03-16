@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 啊哈，SEP。
 
-You can use the [editor on GitHub](https://github.com/ahasep/ahasep/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/101690642/158518879-4e6d0b50-462a-4e51-a8d2-74c8ccb67e17.png)
+> 标准必要专利。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/101690642/158519005-c4c53e93-3e0f-43d4-9bd6-71bf008b510f.png)
+> [A standard-essential patent (SEP)](https://www.dilworthip.com/resources/news/part-i-what-is-a-standard-essential-patent/) is a patent that claims an invention that must be used to comply with a technical standard.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 参考
 
-# Header 1
-## Header 2
-### Header 3
+1. [An Innovator’s Guide to Standard Essential Patents](https://www.dilworthip.com/resources/news/part-i-what-is-a-standard-essential-patent/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahasep/ahasep/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Alt](https://repobeats.axiom.co/api/embed/671fc7c7bb782175962eb487c58655665b10f9b8.svg "Repobeats analytics image")
