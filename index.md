@@ -11,5 +11,6 @@
 ## 参考
 
 1. [An Innovator’s Guide to Standard Essential Patents](https://www.dilworthip.com/resources/news/part-i-what-is-a-standard-essential-patent/)
+2. [欧盟知识产权环境概览](http://www.kangxin.com/html/1/173/174/361/2626.html)
 
 ![Alt](https://repobeats.axiom.co/api/embed/671fc7c7bb782175962eb487c58655665b10f9b8.svg "Repobeats analytics image")
