@@ -6,7 +6,13 @@
 ![image](https://user-images.githubusercontent.com/101690642/158519005-c4c53e93-3e0f-43d4-9bd6-71bf008b510f.png)
 > [A standard-essential patent (SEP)](https://www.dilworthip.com/resources/news/part-i-what-is-a-standard-essential-patent/) is a patent that claims an invention that must be used to comply with a technical standard.
 
+## Why
 
+## What
+
+## How
+
+## Experience
 
 ## 参考
 
