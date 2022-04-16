@@ -10,6 +10,13 @@
 
 ## What
 
+### [标准必要专利（SEP）及汽车行业风险应对策略研究](http://zscq.scjgj.tjdl.gov.cn/upload/file/industrialAlliance/%E9%99%84%E4%BB%B62-%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E9%A2%84%E8%AD%A6%E6%8A%A5%E5%91%8A1%E7%AE%80%E5%8C%96%E7%89%88.pdf)
+
+![附件2-汽车行业预警报告1简化版_0](https://user-images.githubusercontent.com/101690642/163669490-07225958-2aac-4ee7-88e1-149ac8878184.jpg)
+![附件2-汽车行业预警报告1简化版_1](https://user-images.githubusercontent.com/101690642/163669498-0bdf95a2-09ec-4adb-a041-4aeed27ed44e.jpg)
+![附件2-汽车行业预警报告1简化版_2](https://user-images.githubusercontent.com/101690642/163669504-4159d6d4-e7ed-4226-b98c-ba7789047aa2.jpg)
+
+
 ## How
 
 ## Experience
