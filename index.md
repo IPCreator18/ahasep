@@ -16,8 +16,49 @@
 ![附件2-汽车行业预警报告1简化版_1](https://user-images.githubusercontent.com/101690642/163669498-0bdf95a2-09ec-4adb-a041-4aeed27ed44e.jpg)
 ![附件2-汽车行业预警报告1简化版_2](https://user-images.githubusercontent.com/101690642/163669504-4159d6d4-e7ed-4226-b98c-ba7789047aa2.jpg)
 
+### [5G+产业标准必要专利发展趋势（2021年）]()
+
+![5G+产业标准必要专利发展趋势（2021年）_0](https://user-images.githubusercontent.com/101690642/163671970-75414f56-fccf-434b-8513-1cf7d8ed7ad1.png)
+![5G+产业标准必要专利发展趋势（2021年）_1](https://user-images.githubusercontent.com/101690642/163671972-d11ed186-ec26-4f5b-ba53-09d8b607479e.png)
+![5G+产业标准必要专利发展趋势（2021年）_2](https://user-images.githubusercontent.com/101690642/163671975-3255aaea-f5e7-4689-92b1-2e2d97db6ee0.png)
+
 
 ## How
+
+### [如何运用SEP分析检索“组合拳”？](https://mp.weixin.qq.com/s/FH95N00af0LadAExwPXgAA)
+
+5G技术商用化的开启，深刻影响了全球社会相互连接的方式，也蕴含着无限的技术应用场景与商业前景。随着5G技术标准的推行，有关无线通信标准必要专利（SEP）的相关纠纷愈演愈烈，在这块兵家必争之地上，不同参与方也有着复杂多变的利益诉求。
+
+由于对SEP之FRAND（公平、合理、无歧视性）许可框架的解读存在模糊性、声明专利的必要性和有效性透明度不足等因素，SEP权利人与标准实施者在许可谈判中有着充分的相互博弈空间。而SEP分析检索工作，将为许可谈判或诉讼双方提供必不可少的重要筹码。基于此，“定制化解决方案+专业团队+智能检索分析工具”的组合正日益成为相关领域之企业或法律服务机构的刚需。我们不妨通过三个实际案例一窥这套“组合拳”的威力。
+
+案例一：洞见全景
+某大型通信企业希望从数量和质量的角度，评估5G领域主要玩家的贡献度，并了解自身在该领域的竞争地位。对此，科睿唯安检索分析团队针对性地展开了完整的相关领域专利全景分析。团队首先从ETSI获取所有5G声明专利，并利用Derwent Innovation（DI）、Innography等智能工具进行清理和归族。接下来通过全人工审阅，对每项专利进行快速必要性分析，即，将每项专利的权利要求与相应标准进行比对，并根据内容重合度评估必要性级别，同时使用预先制定的技术分解表对专利进行技术标引。最后，基于人工分析后的数据集形成统计和洞见。由此，该企业便能够清晰认知自身及竞争对手的5G SEP分布格局与质量，这为该企业制定未来的SEP战略提供了重要参考。
+
+![image](https://user-images.githubusercontent.com/101690642/163672389-9a8c12df-5db6-40be-94c1-1ca67486647f.png)
+图1 SEP必要性分析+技术标引
+
+案例二：秣马厉兵
+某大型通信企业拥有一个SEP组合，但该组合尚未经过评估，其中有相当一部分的必要性和稳定性成疑。为避免对手在后续的诉讼等高成本活动中轻易挑战成功，企业希望从该组合中筛选出必要性强、稳定性高的核心专利组合。对此，科睿唯安团队建议通过快速必要性分析、详细必要性分析（claim chart）、稳定性分析（无效检索）这三步逐轮筛选。在稳定性分析中，除无效检索的常规手段，科睿唯安团队还对标准文档进行了充分的检索，并通过编写技术演进分析表梳理目标专利所保护的发明在标准组织内的演进过程，力争检索全面彻底。项目成功地筛选出了一批可用于攻击性诉讼/许可的备选SEP，为该企业后续的专利运营活动有效地降低了成本。
+
+![image](https://user-images.githubusercontent.com/101690642/163672393-81439b92-4b5e-4d2e-bac3-582d244a1e2f.png)
+图2 SEP专利组合评估示例
+
+案例三：精准制敌
+作为被许可方的某大型通信企业与其他企业的SEP许可已到期，双方协商未果后，对手起诉指控该企业专利侵权。为支持该企业向对手发起无效挑战，科睿唯安团队使用为诉讼和SEP量身定制的检索策略指南，并与该企业内部IP工程师、外部法律顾问等相关人员及时沟通，帮助客户定位到了用于无效挑战的有力对比文件。最终，该企业与对手根据FRAND条款重新签订许可协议，结束了专利诉讼。
+
+![image](https://user-images.githubusercontent.com/101690642/163672397-8cd3f4fc-49dc-4b2f-a927-ad894fc84da1.png)
+图3  SEP必要性分析样例—重点专利分析
+
+SEP分析和检索的专业性、复杂性、多变性极高，需要耗费大量时间和资源，且无法完全借助AI工具实现；另一方面，SEP谈判、诉讼则往往要求当事人在短时间内快速决策。
+
+[科睿唯安](clarivate.com.cn)是全球领先的专业信息服务提供商。今天，科睿唯安锐意进取，为用户提供值得信赖的信息与卓越的洞见，帮助客户解决复杂难题，洞察先机，加速创新步伐。我们的专业知识和解决方案覆盖创新生命周期的每一个关键环节，从学术研究和科学发现，到知识产权的管理保护，直至实现创新成果的商业化，涵盖科学研究、生命科学与制药、知识产权各个领域。
+
+![image](https://user-images.githubusercontent.com/101690642/163672524-a9de590c-0ab4-4340-80a2-d957ddbcc507.png)
+![image](https://user-images.githubusercontent.com/101690642/163672529-ae0c8a67-0430-4912-aa2a-ca6410fb8985.png)
+![image](https://user-images.githubusercontent.com/101690642/163672533-419ef0e3-0c3b-46e8-97d8-7daa54a82985.png)
+![image](https://user-images.githubusercontent.com/101690642/163672539-8cd4b6bb-7bd3-465e-bcdf-387b0c954fdd.png)
+![image](https://user-images.githubusercontent.com/101690642/163672537-084652ee-4530-4997-9a9b-4ee331822786.png)
+
 
 ## Experience
 
@@ -70,5 +111,7 @@
 
 1. [An Innovator’s Guide to Standard Essential Patents](https://www.dilworthip.com/resources/news/part-i-what-is-a-standard-essential-patent/)
 2. [欧盟知识产权环境概览](http://www.kangxin.com/html/1/173/174/361/2626.html)
+3. [IDC全球SEP诉讼案件合集](https://www.ipeconomy.cn/index.php/mobile/zhuanlan/infolist_ri/id/31/author_id/138.html)
+4. [浅析通信类方法专利的撰写特点](https://mp.weixin.qq.com/s/fYQUbEY_8O-zEFwIxLjz6A)
 
 ![Alt](https://repobeats.axiom.co/api/embed/671fc7c7bb782175962eb487c58655665b10f9b8.svg "Repobeats analytics image")
