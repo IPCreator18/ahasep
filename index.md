@@ -364,5 +364,12 @@ SEP分析和检索的专业性、复杂性、多变性极高，需要耗费大�
 2. [欧盟知识产权环境概览](http://www.kangxin.com/html/1/173/174/361/2626.html)
 3. [IDC全球SEP诉讼案件合集](https://www.ipeconomy.cn/index.php/mobile/zhuanlan/infolist_ri/id/31/author_id/138.html)
 4. [浅析通信类方法专利的撰写特点](https://mp.weixin.qq.com/s/fYQUbEY_8O-zEFwIxLjz6A)
+5. [柳沈律师事务所](http://www.liu-shen.com/Content-1866.html)
+6. [知产力](https://www.zhichanli.com/)
+7. [为标准必要专利确定 FRAND 许可条款](https://www.stout.com/zh-cn/services/intellectual-property-disputes/determination-frand-licensing-terms-for-seps) 
+8. [标准必要专利（SEP）-当今世界的关键和重要因素](https://zhuanlan.zhihu.com/p/101973708)
+9. [日本政府制定《标准必要专利许可诚信谈判指南》](https://www.ccpit.org/a/20220408/20220408gzm4.html)
+10. [中国国际贸易促进委员会](https://www.ccpit.org/)
+11. [標準必要專利 (SEP) 面面觀：如何取捨？](http://www.naipo.com/Portals/1/web_tw/Knowledge_Center/Industry_Economy/IPNC_200812_0704.htm)
 
 ![Alt](https://repobeats.axiom.co/api/embed/671fc7c7bb782175962eb487c58655665b10f9b8.svg "Repobeats analytics image")
